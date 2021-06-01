@@ -1,10 +1,17 @@
-### Hi there 👋
+### Всем привет, меня зовут Инна 👋
+- 🔭 Я использую в своей раблоте WebStorm
+- 🔥 Хочу улучшить знания по алгоритмам 
+- 🌱 Изучаю frontend разработку и все что с этим ввязано
+- ⛷ Люблю кататься на горных лыжах 
+
+### Мой стек
+
 
 <!--
 **iibadreeva/iibadreeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

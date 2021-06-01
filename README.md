@@ -15,8 +15,11 @@
 [<img height="26px" align="left" alt="ci/cd" src="https://github.com/iibadreeva/iibadreeva/blob/main/images/pasted-from-clipboard.png?raw=true">](https://habr.com/ru/company/otus/blog/515078/)
 [<img height="26px" align="left" alt="docker" src="https://github.com/iibadreeva/iibadreeva/blob/main/images/CozzMFiUkAAD0vq.png?raw=true">](https://www.docker.com/)
 [<img height="26px" align="left" alt="mongodb" src="https://github.com/iibadreeva/iibadreeva/blob/main/images/mongodb.png?raw=true">](https://www.mongodb.com/)
-<br />
-<br />
+\
+### Статистика
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iibadreeva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iibadreeva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)

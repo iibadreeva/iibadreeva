@@ -15,8 +15,8 @@
 [<img height="26px" align="left" alt="ci/cd" src="https://github.com/iibadreeva/iibadreeva/blob/main/images/pasted-from-clipboard.png?raw=true">](https://habr.com/ru/company/otus/blog/515078/)
 [<img height="26px" align="left" alt="docker" src="https://github.com/iibadreeva/iibadreeva/blob/main/images/CozzMFiUkAAD0vq.png?raw=true">](https://www.docker.com/)
 [<img height="26px" align="left" alt="mongodb" src="https://github.com/iibadreeva/iibadreeva/blob/main/images/mongodb.png?raw=true">](https://www.mongodb.com/)
-\
-\
+<br />
+<br />
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
